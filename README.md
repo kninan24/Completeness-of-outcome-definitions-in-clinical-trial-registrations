@@ -1,2 +1,2 @@
-# Completeness-of-outcome-definitions-in-clinical-trial-registrations
-Contains code used for analyses in Completeness of outcome definitions in clinical trial registrations: a cross-sectional study
+#Project Update
+The initial analysis has been split up into multiple projects based on peer review. Each branch now contains code for seperate projects. 
